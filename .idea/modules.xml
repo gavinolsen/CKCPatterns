@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CKCPatternsProject.iml" filepath="$PROJECT_DIR$/CKCPatternsProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CKCPattern.iml" filepath="$PROJECT_DIR$/CKCPattern.iml" />
     </modules>
   </component>
 </project>
