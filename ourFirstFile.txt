@@ -1,3 +1,5 @@
-This is a conflict in our first file
+
+
+This is our first file
 
 
