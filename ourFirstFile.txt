@@ -3,5 +3,7 @@ This is a conflict in our first file
 
 
 
+on my branch
+
 
 This is my line-o-matic.
